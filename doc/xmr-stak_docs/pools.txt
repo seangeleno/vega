@@ -1,0 +1,62 @@
+  "pool_list": [
+    {
+      "pool_address": "chicago01.monero.hashvault.pro:7777",
+      "wallet_address": "4AUueBMhCqEYZxLpvjXgRTiWCDs8w9xwaAxpzP7hsTrHdWf3hbgnBofPFzTeAASKLRTxHuAcC3GcYPJebkz39Sup1Uadmv1",
+      "rig_id": "",
+      "pool_password": "vegas:hashvault@comsecfinte.ch",
+      "use_nicehash": false,
+      "use_tls": false,
+      "tls_fingerprint": "",
+      "pool_weight": 1
+    },
+    {
+      "pool_address": "pool.sumokoin.hashvault.pro:7777",
+      "wallet_address": "Sumoo1XLXxocH3ptyr2LwYEsKsJYs2T19Y7QKRXQujFLXeYMC2Rn2gjamAsjbZvejQQeGUtThCgD8G31dcezCXuyJWhuw8vE14w",
+      "rig_id": "",
+      "pool_password": "vega_sumokoin:hashvault@comsecfinte.ch",
+      "use_nicehash": false,
+      "use_tls": false,
+      "tls_fingerprint": "",
+      "pool_weight": 2
+    },
+    {
+      "pool_address": "pool.fonero.hashvault.pro:7777",
+      "wallet_address": "92JLEG8TLbmHNYUm3ebu4AWUCRmeRuKaWUovQxMTeuvhduW4KZ5brRNbv8CJseLus83rSRQhhtmysDpkDv1okxSmS51wFhh",
+      "rig_id": "",
+      "pool_password": "vega_fonero:hashvault@comsecfinte.ch",
+      "use_nicehash": false,
+      "use_tls": false,
+      "tls_fingerprint": "",
+      "pool_weight": 3
+    },
+    {
+      "pool_address": "http://pool.dero.live:7777",
+      "wallet_address": "dERooWTpaiVZMuXAnkzPZkNi3TrYAhJ8ihTia2w8b9C3JbThwdCoKAfLBrsuVbzwdy2eP78a3NvbDCNe3f2x453c3pComuQaPq",
+      "rig_id": "",
+      "pool_password": "x",
+      "use_nicehash": false,
+      "use_tls": false,
+      "tls_fingerprint": "",
+      "pool_weight": 4
+    },
+
+
+  ],
+  /*
+   * Currency to mine. Supported values:
+   *
+   *    aeon7 (use this for Aeon's new PoW)
+   *    cryptonight (try this if your coin is not listed)
+   *    cryptonight_lite
+   *    edollar
+   *    electroneum
+   *    graft
+   *    intense
+   *    karbo
+   *    monero7 (use this for Monero's new PoW)
+   *    sumokoin
+   *
+   */
+
+  "currency": "monero7"
+
